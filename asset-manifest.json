@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dyodeTest.git/static/css/main.57d66239.chunk.css",
+    "main.js": "/dyodeTest.git/static/js/main.559172d7.chunk.js",
+    "main.js.map": "/dyodeTest.git/static/js/main.559172d7.chunk.js.map",
+    "runtime-main.js": "/dyodeTest.git/static/js/runtime-main.fff1252b.js",
+    "runtime-main.js.map": "/dyodeTest.git/static/js/runtime-main.fff1252b.js.map",
+    "static/js/2.9a646df2.chunk.js": "/dyodeTest.git/static/js/2.9a646df2.chunk.js",
+    "static/js/2.9a646df2.chunk.js.map": "/dyodeTest.git/static/js/2.9a646df2.chunk.js.map",
+    "index.html": "/dyodeTest.git/index.html",
+    "static/css/main.57d66239.chunk.css.map": "/dyodeTest.git/static/css/main.57d66239.chunk.css.map",
+    "static/js/2.9a646df2.chunk.js.LICENSE.txt": "/dyodeTest.git/static/js/2.9a646df2.chunk.js.LICENSE.txt",
+    "static/media/mobile.css": "/dyodeTest.git/static/media/WomensImage1.c583b173.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fff1252b.js",
+    "static/js/2.9a646df2.chunk.js",
+    "static/css/main.57d66239.chunk.css",
+    "static/js/main.559172d7.chunk.js"
+  ]
+}
