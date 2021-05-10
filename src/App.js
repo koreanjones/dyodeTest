@@ -1,8 +1,8 @@
 import React from 'react';
 import Mobile from './components/Mobile/Mobile';
-import Desktop from './components/Desktop/Desktop'
-import "./styleguide.css"
-import "./globals.css"
+import Desktop from './components/Desktop/Desktop';
+import "./styleguide.css";
+import "./globals.css";
 
 export default class App extends React.Component {
     render() {
