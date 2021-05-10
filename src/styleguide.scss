@@ -1,0 +1,82 @@
+:root {
+    --black: #000000;
+    --eden: #10504f;
+    --gallery: #efefef;
+    --white: #ffffff;
+    --white-2: #ffffff99;
+  
+    --font-size-l: 16px;
+    --font-size-m: 14px;
+    --font-size-s: 12px;
+    --font-size-xl: 18px;
+    --font-size-xxl: 20px;
+    --font-size-xxxl: 22px;
+    --font-size-xxxxl: 26px;
+  
+    --font-family-lato: "Lato", Helvetica;
+    --font-family-pacifico: "Pacifico", Helvetica;
+  }
+  .pacifico-normal-white-22px {
+    color: var(--white);
+    font-family: var(--font-family-pacifico);
+    font-size: var(--font-size-xxxl);
+    font-style: normal;
+    font-weight: 400;
+  }
+  .pacifico-normal-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-pacifico);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 400;
+  }
+  .lato-bold-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 700;
+  }
+  .pacifico-normal-eden-26px {
+    color: var(--eden);
+    font-family: var(--font-family-pacifico);
+    font-size: var(--font-size-xxxxl);
+    font-style: normal;
+    font-weight: 400;
+  }
+  .lato-normal-eden-14px {
+    color: var(--eden);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+  .pacifico-normal-black-26px {
+    color: var(--black);
+    font-family: var(--font-family-pacifico);
+    font-size: var(--font-size-xxxxl);
+    font-style: normal;
+    font-weight: 400;
+  }
+  .lato-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 400;
+  }
+  .lato-light-black-12px {
+    color: var(--black);
+    font-family: var(--font-family-lato);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 300;
+  }
+  .pacifico-normal-eden-18px {
+    color: var(--eden);
+    font-family: var(--font-family-pacifico);
+    font-size: var(--font-size-xl);
+    font-style: normal;
+    font-weight: 400;
+  }
+  

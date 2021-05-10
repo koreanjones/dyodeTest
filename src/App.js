@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Mobile from './components/Mobile/Mobile';
+import Desktop from './components/Desktop/Desktop'
+import "./styleguide.css"
+import "./globals.css"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class App extends React.Component {
+    render() {
+    return (
+        <div>
+        <Mobile 
+            height = '2636px'
+            width = '375px'
+            left = '3047px'
+            top = '-205px'
+            border-radius = '0px'
+            />
+        
+        </div>
+    )
+    }
 }
-
-export default App;
